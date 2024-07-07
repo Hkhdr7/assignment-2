@@ -1,0 +1,50 @@
+*{
+    color: #ffffff;
+}
+label{
+    
+    font-family: Baskervville SC;
+
+
+}
+/* .grey-header{
+    text-align: center;
+    border: #a09b9b solid 20px;
+    width: 90%;
+    margin: auto;
+    
+    text-decoration: underline;
+    margin-bottom: 20px;
+} */
+body{
+    background-image: url(./images/background-image.jpg);
+    background-size: 100% 100% ;
+}
+.signup-form{
+    width: 50%;
+    margin: 5% 20%
+    
+
+}
+.signup-form input{
+    display: block;
+    padding: 5px 40%;
+    margin:20px 0;
+}
+#submit{
+    -webkit-border-radius: 7;
+    -moz-border-radius: 7;
+    border-radius: 7px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    background: #a09b9b;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+}
+#submit:hover{
+    
+        background: #3cb0fd;
+        text-decoration: none;
+      
+}
